@@ -11,5 +11,4 @@ AI adapts by allowing data to program itself using progressive learning algorith
 
 In this Repo, you will come across various such applications of artificial intelligence that can be opted as a project idea for various personal or educational purposes. 
 
-All the best !!
-
+**Thank you for Visiting, Good Luck**
