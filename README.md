@@ -1,5 +1,5 @@
 ![Artificial-Intelligence-Projects-1](https://user-images.githubusercontent.com/42691222/167454206-44525fca-f5f5-4d3c-aa2f-ce7b916c240a.png)
-# Kool AI Projects
+# Research Based AI Projects
 
 If you think back 30 years, humans could never have dreamed that artificial intelligence would take such a big step forward and have such a positive impact on our lives. Artificial Intelligence has accelerated life’s pace. Artificial intelligence (AI) has given rise to applications that are now having a significant impact on our lives.
 
