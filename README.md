@@ -1,7 +1,7 @@
 ![Artificial-Intelligence-Projects-1](https://user-images.githubusercontent.com/42691222/167454206-44525fca-f5f5-4d3c-aa2f-ce7b916c240a.png)
 # Research Based AI Projects
 
-If you think back 30 years, humans could never have dreamed that artificial intelligence would take such a big step forward and have such a positive impact on our lives. Artificial Intelligence has accelerated life’s pace. Artificial intelligence (AI) has given rise to applications that are now having a significant impact on our lives.
+If we think back about 30 years, humans could never have dreamed that artificial intelligence would take such a big step forward and have such a positive impact on our lives. Artificial Intelligence has accelerated life’s pace. Artificial intelligence (AI) has given rise to applications that are now having a significant impact on our lives.
 
 The term AI was initially coined in 1956 at a Dartmouth meeting. Artificial intelligence (AI) is the ability of a computer or a computer-controlled robot to accomplish tasks that would normally be performed by intelligent beings. In today’s world, Artificial Intelligence has become highly popular. It is the simulation of human intelligence in computers that have been programmed to learn and mimic human actions. These machines can learn from their mistakes and execute activities that are similar to those performed by humans.
 
